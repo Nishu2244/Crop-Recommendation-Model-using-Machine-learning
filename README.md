@@ -12,3 +12,4 @@ It uses Logistic Regression to predict crops based on the following 7 input para
  
 The N-P-K values are ratio between Nitrogen, Phosphorous and Potassium. This means if soil contains 3% nitrogen (N), 2% phosphorus (P) and 5% potassium (K) then its NPK value is 3-2-5.
 ![image](https://user-images.githubusercontent.com/97733857/220845212-60e1a4a8-c0b4-449c-b04e-f46f8bb2a074.png)
+![image](https://user-images.githubusercontent.com/97733857/220849712-0e6314af-2ec9-44ff-b8a1-05b1d16d52a5.png)
